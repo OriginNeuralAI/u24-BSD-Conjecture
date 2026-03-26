@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "U₂₄ BSD Conjecture: A Twisted Spectral Operator for Elliptic Curve L-Functions"
+authors:
+  - family-names: Daugherty
+    given-names: Bryan
+    email: bryan@smartledger.solutions
+  - family-names: Ward
+    given-names: Gregory
+    email: greg@smartledger.solutions
+  - family-names: Ryan
+    given-names: Shawn
+    email: shawn@smartledger.solutions
+date-released: "2026-03-25"
+version: "3.2"
+repository-code: "https://github.com/OriginNeuralAI/u24-BSD-Conjecture"
+keywords:
+  - BSD-conjecture
+  - elliptic-curves
+  - L-functions
+  - spectral-operator
+  - Hasse-bound
+  - omega-24
+  - Hilbert-Polya
+license: LicenseRef-Proprietary
