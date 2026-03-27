@@ -1,0 +1,176 @@
+[
+  {
+    "alpha": 3.141592653589793,
+    "conductor": 11,
+    "curve": "11a1",
+    "match": false,
+    "near_zero": [
+      -1.3380607036324388,
+      -1.1009192208286753,
+      -0.9901097973332916
+    ],
+    "rank": 0,
+    "spectral_gap": 0.23714148280376346,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 6.283185307179586,
+    "conductor": 14,
+    "curve": "14a1",
+    "match": false,
+    "near_zero": [
+      -1.3399130211012054,
+      -1.1011925125126212,
+      -0.9920830012556285
+    ],
+    "rank": 0,
+    "spectral_gap": 0.23872050858858418,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 6.283185307179586,
+    "conductor": 15,
+    "curve": "15a1",
+    "match": false,
+    "near_zero": [
+      -1.3379888234844732,
+      -1.1009086156413996,
+      -0.9900332261021662
+    ],
+    "rank": 0,
+    "spectral_gap": 0.2370802078430736,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 12.566370614359172,
+    "conductor": 32,
+    "curve": "32a1",
+    "match": false,
+    "near_zero": [
+      -1.3427932025627687,
+      -1.101617537681427,
+      -0.9951511045999355
+    ],
+    "rank": 0,
+    "spectral_gap": 0.24117566488134168,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 9.42477796076938,
+    "conductor": 27,
+    "curve": "27a1",
+    "match": false,
+    "near_zero": [
+      -1.340632402162729,
+      -1.10129866698794,
+      -0.9928493215357871
+    ],
+    "rank": 0,
+    "spectral_gap": 0.23933373517478884,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 9.948376736367678,
+    "conductor": 37,
+    "curve": "37a1",
+    "match": true,
+    "near_zero": [
+      -17.407171228948187
+    ],
+    "rank": 1,
+    "spectral_gap": 4.018720899224109,
+    "spectral_rank": 1
+  },
+  {
+    "alpha": 11.519173063162574,
+    "conductor": 43,
+    "curve": "43a1",
+    "match": false,
+    "near_zero": [
+      -1.3390039697440514,
+      -1.1010583916766474,
+      -0.9911146225990509
+    ],
+    "rank": 1,
+    "spectral_gap": 0.23794557806740402,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 14.137166941154067,
+    "conductor": 53,
+    "curve": "53a1",
+    "match": false,
+    "near_zero": [
+      -1.3434668169394965,
+      -1.1017168634158359,
+      -0.9958687135317601
+    ],
+    "rank": 1,
+    "spectral_gap": 0.2417499535236607,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 23.561944901923447,
+    "conductor": 58,
+    "curve": "58a1",
+    "match": false,
+    "near_zero": [
+      -1.3425257317497938,
+      -1.1015779999727249,
+      -0.9948662194354149
+    ],
+    "rank": 1,
+    "spectral_gap": 0.24094773177706896,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 16.231562043547264,
+    "conductor": 61,
+    "curve": "61a1",
+    "match": false,
+    "near_zero": [
+      -1.3400941229835335,
+      -1.1012192314893534,
+      -0.9922759227393838
+    ],
+    "rank": 1,
+    "spectral_gap": 0.23887489149418006,
+    "spectral_rank": 3
+  },
+  {
+    "alpha": 102.10176124166826,
+    "conductor": 389,
+    "curve": "389a1",
+    "match": false,
+    "near_zero": [
+      -165.35916638339376
+    ],
+    "rank": 2,
+    "spectral_gap": 12.434749654902959,
+    "spectral_rank": 1
+  },
+  {
+    "alpha": 113.62093430483085,
+    "conductor": 433,
+    "curve": "433a1",
+    "match": false,
+    "near_zero": [
+      -199.84180539597727
+    ],
+    "rank": 2,
+    "spectral_gap": 20.663349412715434,
+    "spectral_rank": 1
+  },
+  {
+    "alpha": 1329.4172912440806,
+    "conductor": 5077,
+    "curve": "5077a1",
+    "match": false,
+    "near_zero": [
+      -3970.3742615766805
+    ],
+    "rank": 3,
+    "spectral_gap": 56.169122082561444,
+    "spectral_rank": 1
+  }
+]
