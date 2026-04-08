@@ -72,6 +72,8 @@
 |-------|-------------|-------|
 | **BSD Conjecture via the Daugherty Spectral Operator** | 556 lines, 8 theorems, 12 references, 6 figures | [BSD_via_Spectral_Operator.tex](papers/BSD_via_Spectral_Operator.tex) |
 
+> **Caveats:** The result is **conditional on (A*) for rank ≥ 2**. For ranks 0 and 1, BSD follows from Kolyvagin + Gross-Zagier (unconditional). The "Hasse advantage" means key ingredients that are *conjectured* for the Riemann case are *proved* here (Hasse bound, modularity). Function field validation (Tate 1966, Katz-Sarnak 1999) confirms the approach works where everything is unconditional. See [FAQ](https://github.com/OriginNeuralAI/u24-spectral-operator/blob/main/FAQ.md).
+
 ## Key Result
 
 We construct the **first concrete Hilbert-Pólya operator** H_D^E for elliptic curve L-functions and prove BSD conditional on GUE universality (A*). The key insight: the **Hasse bound** |a_p| ≤ 2√p is **unconditional** — making BSD structurally easier than the Riemann Hypothesis through the spectral operator framework.
